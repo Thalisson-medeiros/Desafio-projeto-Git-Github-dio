@@ -1,0 +1,6 @@
+-boas - vindas bootcamp
+-aula inaugural
+-Pensamento computacional
+-lógica de programação essencial
+-introdução Git/Github
+-Scrum
